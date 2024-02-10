@@ -11,3 +11,4 @@ Link:
 * [Image Classification with TensorFlow](https://www.kaggle.com/code/brmil07/image-classification-with-tensorflow)
 * [Multi Class Prediction](https://www.kaggle.com/code/brmil07/multi-class-prediction)
 * [Bank Stock Price Forecasting](https://www.kaggle.com/code/brmil07/bank-stock-price-forecasting)
+* [Food Industry Stock Price Forecasting](https://www.kaggle.com/code/brmil07/food-industry-stock-price-forecasting)
